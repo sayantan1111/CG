@@ -1,98 +1,66 @@
-# Week 1: Java Basics
+# 📘 Week 1: Java Fundamentals
 
-Welcome to the repository for Week 1 of our Java learning journey. This week focused on building a strong foundation in the fundamental concepts of Java programming.
-
----
-
-## 📑 Table of Contents
-
-- [Overview](#overview)
-- [Topics Covered](#topics-covered)
-  - [Day 1: Introduction to Java](#day-1-introduction-to-java)
-  - [Day 2: Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators)
-  - [Day 3: Control Flow (Conditional Statements and Loops)](#day-3-control-flow-conditional-statements-and-loops)
-  - [Day 4: Arrays](#day-4-arrays)
-  - [Day 5: Strings](#day-5-strings)
-  - [Day 6: Functions (Methods)](#day-6-functions-methods)
-- [Prerequisites](#prerequisites)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
+Welcome to **Week 1** of our Java learning journey! This week focused on building a solid foundation in Java by covering basic programming concepts including control structures, arrays, methods, and string handling.
 
 ---
 
-## Overview
+## 📅 Day-wise Breakdown
 
-The first week was dedicated to understanding the core syntax and essential building blocks of the Java programming language. We covered how to write simple Java programs, handle different types of data, control the flow of execution, and work with fundamental data structures like arrays and strings, as well as modularizing code with functions (methods).
+### 🟦 Day 1: Java Fundamentals
+- Introduction to Java
+- Basic syntax and structure of a Java program
+- `main()` method, compilation, and execution
+- Input/output using `Scanner`
+- Comments, data types, and variables
 
----
+### 🟦 Day 2: Control Flows
+- Conditional statements: `if`, `else`, `else if`
+- `switch-case` statements
+- Logical and relational operators
+- Nested conditionals
 
-## Topics Covered
+### 🟦 Day 3: Arrays
+- Introduction to arrays
+- One-dimensional arrays: declaration, initialization, traversal
+- Array input/output
+- Basic array operations (sum, max/min, etc.)
 
-### Day 1: Introduction to Java
-
-- What is Java?
-- History and importance of Java
-- Setting up the Java Development Kit (JDK)
-- Writing and running the first Java program ("Hello, World!")
-- Understanding the basic structure of a Java program (classes, main method)
-
-### Day 2: Variables, Data Types, and Operators
-
-- Declaring and initializing variables
-- Primitive data types (int, double, boolean, char, etc.)
-- Non-primitive data types (String – introduced briefly)
-- Understanding Java operators (arithmetic, relational, logical, assignment)
-- Type casting
-
-### Day 3: Control Flow (Conditional Statements and Loops)
-
-- if, else if, else statements
-- switch statement
-- for loops
-- while loops
-- do-while loops
-- break and continue statements
-
-### Day 4: Arrays
-
-- What are arrays?
-- Declaring and initializing arrays
-- Accessing array elements
-- Iterating through arrays
-- Multi-dimensional arrays
-
-### Day 5: Strings
-
-- Introduction to the String class
-- Creating String objects
-- Common String methods (e.g., length(), charAt(), substring(), equals(), equalsIgnoreCase())
-- String concatenation
-- String immutability
-
-### Day 6: Functions (Methods)
-
-- What are functions/methods?
-- Defining and calling methods
+### 🟦 Day 4: Methods
+- Defining and invoking methods
 - Method parameters and return types
 - Method overloading
-- Understanding static and void keywords
+- Use of static methods
+- Code reusability and modularization
+
+### 🟦 Day 5: Strings
+- Working with `String` class
+- String methods: `length()`, `charAt()`, `substring()`, `equals()`, `compareTo()`, etc.
+- Immutability of strings
+
+### 🟦 Day 6: Extra Java Strings
+- Advanced string operations
+- StringBuilder and StringBuffer
+- Mutable strings and performance considerations
+- String manipulation exercises
 
 ---
 
-## Prerequisites
+## 🛠️ How to Use
 
-- A computer with a supported operating system (Windows, macOS, Linux)
-- Java Development Kit (JDK) installed
-- A code editor or Integrated Development Environment (IDE) like VS Code, IntelliJ IDEA, or Eclipse
+Each folder contains:
+- Java source files (`.java`)
+- Practice problems
+- In-class examples
+- Additional notes/comments if any
 
----
-
-## How to Use This Repository
-
-This repository is structured to reflect the topics covered each day. You can find code examples, exercises, and notes inside the respective daily folders (day 1 to day 6).
+Open each day's folder to explore the concepts and work through the examples.
 
 ---
 
-## Next Steps
+## ✅ Prerequisites
 
-In Week 2, we will dive deeper into Object-Oriented Programming (OOP), exception handling, and organizing code using packages and modifiers.
+- Java installed (JDK 8 or above)
+- A code editor or IDE (e.g., IntelliJ IDEA, Eclipse, VS Code)
+- Basic understanding of programming logic
+
+---
