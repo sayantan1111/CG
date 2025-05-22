@@ -1,104 +1,84 @@
-Week 3: Data Structures & Algorithm Fundamentals
-Welcome to Week 3! This week dives into essential data structures and algorithmic principles in Java, focusing on practical applications and performance analysis. We'll explore core concepts such as encapsulation, lists, stacks, queues, searching, sorting, and complexity analysis.
+# Week 3: Data Structures & Algorithm Fundamentals
 
-📑 Table of Contents
-Overview
+Welcome to Week 3 of our Java learning journey! This week dives into essential data structures and algorithmic principles in Java. We’ll cover encapsulation and interfaces, and then move into foundational data structures like LinkedLists, Stacks, Queues, Hash Maps, and more. We’ll also learn common searching and sorting algorithms and analyze their runtime using Big-O notation.
 
-Topics Covered
+---
 
-Day 1: Encapsulation, Polymorphism, Interfaces
+## Table of Contents
 
-Day 2: LinkedList
+- [Overview](#overview)
+- [Topics Covered](#topics-covered)
+  - [Day 1: Encapsulation, Polymorphism, Interfaces](#day-1-encapsulation-polymorphism-interfaces)
+  - [Day 2: LinkedList](#day-2-linkedlist)
+  - [Day 3: Stacks, Queues, Hash Maps & Hash Sets](#day-3-stacks-queues-hash-maps--hash-sets)
+  - [Day 4: Sorting Algorithms](#day-4-sorting-algorithms)
+  - [Day 5: Linear and Binary Search](#day-5-linear-and-binary-search)
+  - [Day 6: Algorithm’s Runtime Analysis & Big-O](#day-6-algorithms-runtime-analysis--big-o)
+- [Prerequisites](#prerequisites)
+- [How to Use This Repository](#how-to-use-this-repository)
+  
 
-Day 3: Stacks, Queues, Hash Maps & Hash Sets
+---
 
-Day 4: Sorting Algorithms
+## Overview
 
-Day 5: Linear and Binary Search
+This week we focused on strengthening our understanding of Java’s core data structures and how algorithms behave in terms of time and space complexity. You will implement basic algorithms manually and explore Java’s built-in tools to handle collections and data operations efficiently.
 
-Day 6: Algorithm’s Runtime Analysis & Big-O
+---
 
-Prerequisites
+## Topics Covered
 
-How to Use This Repository
+### Day 1: Encapsulation, Polymorphism, Interfaces
+- Access modifiers and encapsulation
+- Introduction to polymorphism
+- Interface vs abstract class
+- Method overriding and dynamic dispatch
 
-Next Steps
+### Day 2: LinkedList
+- Singly and doubly linked lists (concept and implementation)
+- Java’s `LinkedList` class
+- Operations: insertion, deletion, traversal
+- Comparison with arrays
 
-📘 Overview
-This week emphasizes building your intuition around how data structures work internally and how to choose the right one based on the problem at hand. You’ll also understand searching and sorting techniques and how to analyze algorithm efficiency using Big-O notation.
+### Day 3: Stacks, Queues, Hash Maps & Hash Sets
+- Stack and Queue operations using arrays and LinkedLists
+- Using Java Collections (`Stack`, `Queue`, `Deque`)
+- Hashing concept, collisions
+- `HashMap` vs `HashSet` with use cases
 
-📚 Topics Covered
-Day 1: Encapsulation, Polymorphism, Interfaces
-Deep dive into encapsulation
+### Day 4: Sorting Algorithms
+- Bubble, Selection, Insertion Sort
+- Introduction to Merge and Quick Sort
+- Sorting stability and complexity
+- Practical sorting examples in Java
 
-Method overloading and overriding
+### Day 5: Linear and Binary Search
+- Linear search basics
+- Binary search (iterative and recursive)
+- Preconditions for binary search
+- Efficiency comparison
 
-Role of polymorphism in Java
+### Day 6: Algorithm’s Runtime Analysis & Big-O
+- Time and space complexity
+- Big-O, Big-Theta, and Big-Omega
+- Common growth rates: O(1), O(n), O(log n), etc.
+- Tips to estimate complexity in real scenarios
 
-Interfaces and abstract classes
+---
 
-Real-world modeling examples
+## Prerequisites
 
-Day 2: LinkedList
-Singly and doubly linked lists
+- Good understanding of Java syntax and OOP (Weeks 1 & 2)
+- Java SDK and IDE set up (IntelliJ, Eclipse, etc.)
+- Confidence in running and modifying Java code
 
-Custom LinkedList implementation
+---
 
-Java's LinkedList class and use cases
+## How to Use This Repository
 
-Insertion, deletion, and traversal operations
+Each folder in `Week3/` corresponds to a specific day’s topic and includes:
+- Java source code files
+- Sample problems and example outputs
+- Practice exercises to reinforce concepts
 
-Day 3: Stacks, Queues, Hash Maps & Hash Sets
-Stack and Queue implementation using arrays and LinkedLists
-
-Java Collections: Stack, Queue, Deque
-
-Hashing basics, collision handling
-
-HashMap vs HashSet: usage and performance
-
-Day 4: Sorting Algorithms
-Bubble Sort, Selection Sort, Insertion Sort
-
-Merge Sort and Quick Sort (introductory level)
-
-Sorting complexity comparison
-
-Stable vs unstable sorting
-
-Day 5: Linear and Binary Search
-Linear search implementation
-
-Binary search and recursion
-
-Preconditions for binary search
-
-Search efficiency and trade-offs
-
-Day 6: Algorithm’s Runtime Analysis & Big-O
-Time and space complexity analysis
-
-Big-O, Big-Theta, Big-Omega notations
-
-Common complexity classes
-
-How to estimate runtime in practice
-
-✅ Prerequisites
-Strong grasp of Java basics and OOP (from Weeks 1–2)
-
-Familiarity with Java’s syntax and IDE usage
-
-Ability to run and test Java programs
-
-📂 How to Use This Repository
-Each day's folder in Week3/ contains:
-
-Java source files demonstrating the concept
-
-Sample programs and exercises
-
-Notes and explanations in markdown or PDF format
-
-Explore the code, test different inputs, and build your own variations!
 
